@@ -1,5 +1,5 @@
 # defi_groups
-This is a description of different groups on DeFi.
+This is a description of different groups on DeFi, which we think have some value.
 
 https://t.me/ValueDeFi
 
